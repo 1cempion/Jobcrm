@@ -126,6 +126,27 @@ Lücke je war.
 
 ---
 
+## Personalisierung
+
+Über dem generischen Gerüst liegt eine persönliche Ebene, eingearbeitet aus zwei
+vorbereiteten Dokumenten (Positionierung, Zielbild) — **ohne neue Datenbanken**,
+nur zwei Referenzseiten plus Befüllung dessen, was schon da war:
+
+- **🎙 Meine Positionierung** — der 30-Sekunden-Einstieg, die lange Version, die
+  drei Stärken mit Anker-Story, die Zahlen-Tabelle und die vorbereiteten
+  Antworten auf die vier Fragen, die garantiert kommen. Die Seite, die vor jedem
+  Gespräch gelesen wird.
+- **🎯 Das Zielbild** — zehn Kriterien für exzellentes Account Management aus
+  Geschäftsführer-Perspektive. Doppelt nutzbar: Entwicklungsraster und
+  Bewertungsmodell der Gegenseite. Jedes Kriterium ist gegen vorhandene Belege
+  gemappt.
+- **Story-Bank** — zwei echte Stories ersetzen zwei Vorlagen, poliert und
+  einsatzbereit.
+- **Fragen-Arsenal** — fünf Fragen mit eigenen Antworten befüllt, acht
+  rollenspezifische ergänzt, Stories per Relation verknüpft.
+- **Branchen-Playbook** — Zielbranche markiert und um den
+  Account-Management-Teil erweitert.
+
 ## Bedienung
 
 **Neue Bewerbung** → Pipeline, Zeile anlegen. Position, Firma, Status

@@ -150,12 +150,46 @@ if(empty(prop("Datum")), "-", formatDate(prop("Datum"), "MMMM YYYY"))
 | Datenbank | Einträge |
 |---|---|
 | 🧠 Taktik-Deck | 27 Karten über 10 Kategorien |
-| ❓ Fragen-Arsenal | 25 Fragen (7 Klassiker, 3 Stress, 3 Lücken, 2 Gehalt, 3 Kultur, 7 eigene Fragen) |
+| ❓ Fragen-Arsenal | 33 Fragen (7 Klassiker, 4 Stress, 4 Lücken, 2 Gehalt, 4 Kultur/Fachlich, 10 eigene Fragen an sie) |
 | 🏭 Branchen-Playbooks | 9 Branchen mit vollständigem Playbook |
-| ⭐ Story-Bank | 8 STAR-Vorlagen zum Ausfüllen |
+| ⭐ Story-Bank | 2 fertige Stories + 6 STAR-Vorlagen |
 
 Pipeline, Firmen, Kontakte, Gespräche und Aktivitäten-Log starten leer — das
 sind die Datenbanken, die mit der eigenen Suche wachsen.
+
+---
+
+## Personalisierungs-Ebene
+
+Aus zwei vorbereiteten Dokumenten (Positionierung, Zielbild) eingearbeitet.
+Bewusst **ohne neue Datenbanken** — nur zwei Referenzseiten plus Befüllung
+bestehender Container.
+
+**Zwei Seiten unter dem Hub**
+
+| Seite | Page ID | Inhalt |
+|---|---|---|
+| 🎙 Meine Positionierung | `3dcb4b9a-b5bd-8183-a850-d291e10f004a` | 30-Sekunden-Einstieg, lange Version, drei Stärken mit Anker-Story, Zahlen-Tabelle, vorbereitete Antworten, offene Baustelle |
+| 🎯 Das Zielbild | `3dcb4b9a-b5bd-819e-9ce6-fd1f9bd354ca` | 10 Kriterien aus Geschäftsführer-Sicht, je mit Beleg-Mapping (8/10 belegt), „Was er nicht braucht", abgeleitete Gegenfragen |
+
+**In bestehende Container eingetragen**
+
+- **Story-Bank**: zwei Template-Einträge in echte Stories überschrieben —
+  *Headtube Cover* (Werkzeug über zwei Projekte geteilt) und *Der Zielkonflikt*
+  (Qualität vs. Preis, Einkauf hatte recht). Beide auf `💎 Poliert`.
+- **Fragen-Arsenal**: 5 bestehende Fragen mit eigenen Antworten befüllt und auf
+  `🟩🟩🟩🟩⬜ Fast` gesetzt, 2 davon per Relation an die Stories gehängt.
+  8 neue Fragen ergänzt (KPIs, Liefertreue, Zeit in der Rolle, Absagen,
+  reaktiver Anteil + 3 Gegenfragen aus dem Zielbild).
+- **Branchen-Playbooks**: *Industrie & Mittelstand* auf `🎯 Zielbranche`,
+  Gehaltsband um Account-Management-Rollen ergänzt, Abschnitt
+  „Account Management im Zulieferer-Umfeld" angehängt.
+
+**Offene Lücke, die im System vermerkt ist:** die Performance-Übersicht
+(Projektlast, Eskalationen, Durchlaufzeiten). Sie schließt gleichzeitig die
+KPI-Frage im Interview und zwei der zehn Zielbild-Kriterien. Absichtlich *nicht*
+als weitere Datenbank gebaut — sie gehört in den laufenden Job, nicht in das
+Bewerbungs-CRM.
 
 ---
 
